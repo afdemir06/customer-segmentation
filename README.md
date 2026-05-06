@@ -8,7 +8,7 @@ This is an end-to-end data-analysis project that provides the user to divide his
 ## How does it work?
 - Firstly the user upload clients' data as CSV or XLSX
 - New RFM (Recency, Frequency, Monetary) columns are created while data preprocessing
-- The data is divided into two. VIP clients, whose total monetary value exceeds 3 times the monetary medianand and normal clients
+- The data is divided into two. VIP clients, whose total monetary value exceeds 3 times the monetary median and normal clients
 - The best number of cluster are determined based on RFM columns using the elbow method
 - Finally, the segments and VIP clients are shown in the Streamlit UI
 
