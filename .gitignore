@@ -16,5 +16,3 @@ data/
 .DS_Store
 Thumbs.db
 *.env
-screenshots/
-*.png
